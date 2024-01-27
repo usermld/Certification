@@ -1,9 +1,9 @@
-n =  3 #int(input("fuf: "))
+size =  3 #int(input("fuf: "))
 masive_1 = [] #["1234", "1567", "-2", "computer science"]
 masive_2 = []
 i = 0
 
-while i < n:
+while i < size:
     masive_1.append(str(input()))
     i += 1
 
